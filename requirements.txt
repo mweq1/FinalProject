@@ -1,12 +1,28 @@
+# Core AI Framework
 langchain
 langchain-community
 langchain-huggingface
 langchain-ollama
-langchain-classic
 langchain-text-splitters
+
+# Vector Store & Embeddings
+faiss-cpu
+sentence-transformers
+protobuf==5.26.1
+
+# Document Processing
 pypdf
 docx2txt
+python-docx
+
+# UI & Interface
 gradio
-sentence-transformers
-faiss-cpu
-protobuf==5.26.1
+
+# Evaluation & Metrics
+pandas
+numpy
+tabulate
+
+# Utilities
+python-dotenv
+tiktoken
