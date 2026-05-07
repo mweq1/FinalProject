@@ -1,0 +1,7 @@
+# Ignore temporary Python cache files
+__pycache__/
+*.py[cod]
+
+# Do NOT ignore your video or test files
+!Finale_TestingVid.mp4
+!test_files/

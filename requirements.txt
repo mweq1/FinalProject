@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+langchain-classic
+langchain-text-splitters
+pypdf
+docx2txt
+gradio
+sentence-transformers
+faiss-cpu
+protobuf==5.26.1
